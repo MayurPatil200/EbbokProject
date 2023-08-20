@@ -48,6 +48,6 @@ public class LanguageMaster {
     @OneToOne
     @JoinColumn(name = "typeId")
     private ProductTypeMaster productType;
-    
+    // mayur patil project
     // Getter and setter methods
 }
